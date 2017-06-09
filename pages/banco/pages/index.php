@@ -9,7 +9,7 @@
 		<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-		<title>The Fast Food</title>
+		<title>Digital Banking</title>
 	</head>
 	<body background="../../../img/intro-bg.jpg">
 
@@ -39,7 +39,7 @@
 		                                </a>
 		                            </li>
 		                            <li>
-		                                <a href="pages/PracticaDos.php" class="btn btn-default btn-lg">
+		                                <a href="detalle.php" class="btn btn-default btn-lg">
 		                                    <span class="network-name">Detalle Cliente</span>
 		                                </a>
 		                            </li>
