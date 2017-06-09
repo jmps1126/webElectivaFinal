@@ -28,13 +28,18 @@
 
 		                        <hr class="intro-divider">
 		                        <ul class="list-inline intro-social-buttons">
+		                        	<li>
+		                                <a href="../../../index.php" class="btn btn-default btn-lg">
+		                                    <span class="network-name">Inicio</span>
+		                                </a>
+		                            </li>
 		                            <li>
 		                                <a href="clientes.php" class="btn btn-default btn-lg">
 		                                    <span class="network-name">Lista De Clientes</span>
 		                                </a>
 		                            </li>
 		                            <li>
-		                                <a href="pages/Parcial.php" class="btn btn-default btn-lg">
+		                                <a href="cuotas.php" class="btn btn-default btn-lg">
 		                                    <span class="network-name">Pagar Coutas</span>
 		                                </a>
 		                            </li>
