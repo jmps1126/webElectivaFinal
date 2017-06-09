@@ -29,7 +29,7 @@
 		                        <hr class="intro-divider">
 		                        <ul class="list-inline intro-social-buttons">
 		                            <li>
-		                                <a href="pages/EntregaUno.php" class="btn btn-default btn-lg">
+		                                <a href="clientes.php" class="btn btn-default btn-lg">
 		                                    <span class="network-name">Lista De Clientes</span>
 		                                </a>
 		                            </li>
