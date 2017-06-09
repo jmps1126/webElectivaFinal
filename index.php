@@ -52,7 +52,7 @@
                                 </a>
                             </li>
                              <li>
-                                <a href="pages/banco/loggin.php" class="btn btn-default btn-lg">
+                                <a href="pages/banco/pages/loggin.php" class="btn btn-default btn-lg">
                                     <span class="network-name">Simulador Bancario</span>
                                 </a>
                             </li>

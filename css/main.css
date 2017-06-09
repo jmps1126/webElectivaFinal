@@ -1,3 +1,81 @@
+body{
+
+    font-family: 'Lato', sans-serif;
+
+}
+
+img{
+    max-width: 100%;
+}
+a{
+    color: #009FFF;
+}
+a,menu-red{
+    color: #934B2C;
+}
+.color-red{
+    color: #934B2C; 
+}
+.color-font-verde-oscuro{
+    color: #00833D;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 50px;
+}
+.pacifico{
+    font-family: 'Pacifico', cursive;
+}
+.font-open-sans{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 19px;
+}
+.grande {
+    font-size: 3em;
+}
+.color-font-green{
+    color: #00887C;
+}
+.espacio-derecha {
+    margin-right: 1em;
+}
+.no-lista li{
+    list-style-type: none;
+}
+.no-lista {
+    margin: 0px;
+    padding: 0px;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+    margin-right: -4px;
+}
+.nav-gris{
+    background-color: #eee;
+}
+.padding-largo{
+    padding: 5px 10px;
+}
+.hacia-arriba{
+    vertical-align: top;
+}
+.font-mediana{
+    font-size: 1.5em;
+}
+.retraso-animate-1{
+    -webkit-animation-delay:1s;
+    -moz-animation-delay:1s;
+    animation-delay: 1s;
+}
+.retraso-animate-2{
+    -webkit-animation-delay:2s;
+    -moz-animation-delay:2s;
+    animation-delay: 2s;
+}
+
 /*    --------------------------------------------------
 	:: Login Section
 	-------------------------------------------------- */
@@ -73,6 +151,9 @@
 .btn-custom:hover,
 .btn-custom:focus {
     color: #fff;
+}
+.color-blanco{
+    color: white; 
 }
 
 /*    --------------------------------------------------

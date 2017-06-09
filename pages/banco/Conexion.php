@@ -1,13 +1,27 @@
 <?php
-	function conexion(){
 
-		$user = "root";
-		$pass = "";
-		$db = "db_banco";
-		$server = "localhost";
-		$con = mysqli_connect($server,$user,$pass,$db) or die ("Ha ocurrido un error al momento de conectar a la base de datos");
 
-		return $con;
+	function ConectionDataBase (){
+		$servername = "localhost";
+		$username = "root";
+		$password = "";
+		$dbname = "db_banco";
+
+		//crear conexion
+		$conn = mysqli_connect($servername, $username, $password, $dbname);
+		
+		
+		//check conexion
+
+		if(!$conn)
+		{
+			die("Connection failed: " . mysqli_connect_error());
+
+		}		
+		return $conn;		
+	
+
 	}
+
 
 ?>
